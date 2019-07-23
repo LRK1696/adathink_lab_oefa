@@ -1,0 +1,49 @@
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-size: cover;
+    font-size: 16px;
+}
+.user-img{
+    text-align: center;
+}
+.user-img img{
+    height: 150px;
+    width: 150px;
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 0;
+}
+.modal-content{
+    background-color: white;
+    border: 0;
+    opacity: .95;
+}
+.user-name{
+    margin: 10px 0;
+}
+.form-input button{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form-group input{
+    font-size: 15px;
+}
+.input-group{
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid gray;
+}
+.btn-success{
+    background-color: #46BF6E;
+    border: 1px solid #46BF6E;
+}
+.btn-success:hover{
+    background-color: #0CB48B;
+    border: 1px solid #0CB48B;
+}
+.link-part{
+    color: #0C84CC;
+    text-align: center;
+}
